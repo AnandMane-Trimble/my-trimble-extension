@@ -21,7 +21,7 @@ import {
 
 // Set to FALSE to attempt real API calls (requires hosting in TC environment)
 // Set to TRUE to simulate data for development/demo purposes
-const DEMO_MODE = true; 
+const DEMO_MODE = false; 
 
 const SUPPORTED_EXTENSIONS = ['trb', 'ifc', 'rvt', 'skp', 'dwg'];
 

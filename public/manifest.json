@@ -1,0 +1,8 @@
+{
+  "name": "My Custom Extension",
+  "description": "A custom 3D viewer extension",
+  "version": "1.0.0",
+  "entryPoint": "https://AnandMane-Trimble.github.io/my-trimble-extension/index.html",
+  "icon": "https://AnandMane-Trimble.github.io/my-trimble-extension/vite.svg",
+  "author": "AnandMane-Trimble"
+}
