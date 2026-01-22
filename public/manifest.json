@@ -1,8 +1,9 @@
 {
-  "name": "My Custom Extension",
-  "description": "A custom 3D viewer extension",
-  "version": "1.0.0",
-  "entryPoint": "https://AnandMane-Trimble.github.io/my-trimble-extension/index.html",
   "icon": "https://AnandMane-Trimble.github.io/my-trimble-extension/vite.svg",
-  "author": "AnandMane-Trimble"
+  "title": "My Custom Extension",
+  "url": "https://AnandMane-Trimble.github.io/my-trimble-extension/index.html",
+  "description": "A custom 3D viewer extension for Trimble Connect",
+  "version": "1.0.0",
+  "author": "AnandMane-Trimble",
+  "enabled": true
 }
